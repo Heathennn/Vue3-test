@@ -1,19 +1,22 @@
-# vue3-test
+# Vue3.0尝鲜
 
-## Project setup
+## 安装最新的vue-cli
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+npm i -g @vue/cli
 ```
 
-### Compiles and minifies for production
+### 创建新项目
+> 此时还是2.x版本的vue
+> 先不要选typescript, 貌似beta版本的插件还没有完全支持
 ```
-yarn build
+vue create vue3-test
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 升级到vue3.0 beta
+```
+vue add vue-next
+```
+
+### 重启
+
+### 基本语法都在Test.vue里
