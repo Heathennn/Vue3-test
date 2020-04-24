@@ -1,5 +1,11 @@
 # Vue3.0尝鲜
+## 启动
+```
+yarn
 
+yarn serve
+```
+## 以下是新建项目流程
 ## 安装最新的vue-cli
 ```
 npm i -g @vue/cli
